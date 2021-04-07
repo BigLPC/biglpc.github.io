@@ -7,7 +7,7 @@ Maintainer: BigLPC <currywarriors20@gmail.com>
 Author: BigLPC
 Section: Themes
 Depends: com.spark.snowboard | com.anemonetheming.anemone3 | net.dodtweaks.ithemer
-Filename: /debs/com.biglpc.aerogel_1.0_iphoneos-arm.deb
+Filename: ./debs/com.biglpc.aerogel_1.0_iphoneos-arm.deb
 Size: 3712040
 MD5sum: b52fa913a8d973dddf80744ee1807d4c
 SHA1: 17ff3c6e166edf4926c57d8df0f0c4f8188b4158

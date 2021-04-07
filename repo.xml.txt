@@ -1,0 +1,8 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>Follow me on ...</name>
+            <url>paste link</url>
+        </link>
+    </footerlinks>
+</repo>
