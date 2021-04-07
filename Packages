@@ -10,7 +10,7 @@
 Package: com.biglpc.aerogel\
 Name: Aerogel\
 Version: 1.0\
-Architecture: phones-arm\
+Architecture: iphoneos-arm\
 Description: A beautiful theme with modern and vibrant icons!\
 Maintainer: Luca Caniglia\
 Author: Luca Caniglia\
