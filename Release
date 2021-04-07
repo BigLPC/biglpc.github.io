@@ -1,10 +1,8 @@
-Origin: BigLPC's repo
-Label: BigLPC's repo
+Origin: BigLPC
+Label: BigLPC
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: BigLPC
-
-
