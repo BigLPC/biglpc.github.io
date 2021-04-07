@@ -7,7 +7,7 @@ Maintainer: BigLPC
 Author: BigLPC
 Section: Themes
 Depends: com.spark.snowboard | com.anemonetheming.anemone3 | net.dodtweaks.ithemer
-Filename: ./package/Aerogel/Aerogel.deb
+Filename: ./debs/Aerogel.deb
 Size: 3712040
 MD5sum: b52fa913a8d973dddf80744ee1807d4c
 SHA1: 17ff3c6e166edf4926c57d8df0f0c4f8188b4158
