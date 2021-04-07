@@ -1,0 +1,22 @@
+<package>
+	<id>com.biglpc.aerogel</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>A beautiful theme with modern and vibrant icons!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>What they look like!</description>
+			<image>icons.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+</package>
