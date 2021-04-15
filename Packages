@@ -1,15 +1,15 @@
 Package: com.biglpc.aerogel
-Name: Aerogel
 Version: 1.0
 Architecture: iphoneos-arm
-Description: A beautiful theme with modern and vibrant icons!
-Maintainer: BigLPC <currywarriors20@gmail.com>
-Author: BigLPC
-Section: Themes
-Depends: com.spark.snowboard | com.anemonetheming.anemone3 | net.dodtweaks.ithemer
+Maintainer: Luca Caniglia
+Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/com.biglpc.aerogel_1.0_iphoneos-arm.deb
-Size: 3712040
-MD5sum: b52fa913a8d973dddf80744ee1807d4c
-SHA1: 17ff3c6e166edf4926c57d8df0f0c4f8188b4158
-SHA256: 6f7d7eaca5c7522aea0503d1e37e7ccbf6f7ba80cfbb5aaf2c8faeb56ef68524
-Depiction: http://biglpc.github.io/depictions/index.html?p=com.biglpc.aerogel
+Size: 4084032
+MD5sum: e20617faa9274989baac73f04d1dc9fc
+SHA1: 04795e2ae8bd1eb12aed5d8d09c0a4faf617370b
+SHA256: ffe1e3b6736ce8932674d242d1eedde0569ad9cb50ee158af3d5f0d254ab077d
+Section: Themes
+Description: A beautiful theme with modern and vibrant icons!
+Author: Luca Caniglia
+Name: Aerogel
+
